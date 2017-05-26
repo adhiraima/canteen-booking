@@ -1,0 +1,24 @@
+{
+  "name": "canteen-booking",
+  "version": "1.0.0",
+  "description": "Canteen booking services backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adhiraima/canteen-booking.git"
+  },
+  "keywords": [
+    "node",
+    "react",
+    "react-native"
+  ],
+  "author": "Adhir Aima",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adhiraima/canteen-booking/issues"
+  },
+  "homepage": "https://github.com/adhiraima/canteen-booking#readme"
+}
